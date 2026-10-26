@@ -2,10 +2,10 @@
     имя = "skyforge-slug"
     версия = "0.1.0"
     автор = "SkyPackages"
-    описание = "Генерация URL-слагов из текста с поддержкой транслитерации (кириллица)."
+    описание = "Генерация URL-слагов."
     репозиторий = "github.com/skytech-alt/skyforge-slug"
     точка_входа = "code/main.skf"
-    теги = ["slug", "slugify", "transliteration", "url"]
+    теги = ["slug", "url"]
     лицензия = "MIT"
     зависимости = []
 }
